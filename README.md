@@ -1,6 +1,6 @@
 # WebGPU-03-Triangle
 
-## Example of Vite + WebGPU + Typescript
+## Example of Vite + WebGPU + TypeScript
 
 Draws a simple triangle
 
